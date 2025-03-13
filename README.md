@@ -5,12 +5,15 @@
 
 ## 📘Ementa
 
+### Git e GitHub : Compartilhando e colaborando em projetos
 - Criar portfólio de projetos no GitHub
 - Compartilhar o código de projetos no GitHub
 - Colaborar em projetos no GitHub
 - Versionamento de um projeto de software utilizando o Git
 - Lidar com conflitos em códigos utilizando o Git
 - Analisar e modificar o histórico de commits de um repositório Git
+
+### Git e GitHub : Dominando controle de versão de código
 - Visualizar as alterações de um projeto com git
 - Trabalhar com branches usando git
 - Usar merge e rebase
