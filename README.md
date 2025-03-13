@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+# Jogo do número secreto
 
 ## ℹ️ Sobre
 <p>Projeto utilizado no curso para aprendizado das técnicas e melhores práticas.</p>
@@ -35,7 +35,7 @@
   
 </div>
 
-# 🧑‍🏫 Instrutor(es)
+## 🧑‍🏫 Instrutor(es)
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/6991415?v=4" width=115><br><sub>Vinicius Dias</sub>](https://github.com/cviniciussdias) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
